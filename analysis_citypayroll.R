@@ -1,7 +1,3 @@
-#Bushra Amjad
-#21I-2083
-#Assignment 3
-
 library(readr)
 library(dplyr)
 library(ggplot2)
